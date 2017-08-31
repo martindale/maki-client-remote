@@ -1,0 +1,29 @@
+{
+  "name": "maki-client-remote",
+  "version": "0.0.0",
+  "description": "adds support for remotes to the fabric client",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martindale/maki-client-remote.git"
+  },
+  "keywords": [
+    "maki",
+    "client",
+    "framework",
+    "p2p",
+    "serverless"
+  ],
+  "author": "Eric Martindale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martindale/maki-client-remote/issues"
+  },
+  "homepage": "https://github.com/martindale/maki-client-remote#readme",
+  "dependencies": {
+    "metascraper": "^1.0.6"
+  }
+}
